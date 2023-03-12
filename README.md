@@ -8,12 +8,9 @@ pip3 install https://github.com/google-coral/pycoral/releases/download/release-f
 
 
 
-test
-test
-test
-test
-test
-test
+aadhi 
+aadhi
+aadhit
 test
 test
 
