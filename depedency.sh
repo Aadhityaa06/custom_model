@@ -79,3 +79,8 @@ sudo rm -rf tensorflow-2.3.1-cp37*
 
 # install Keras
 sudo pip3 install keras
+
+
+
+echo test
+echo test
